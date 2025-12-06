@@ -1,9 +1,0 @@
-pandas
-numpy
-scikit-learn
-mlflow
-joblib
-streamlit
-python-dotenv
-huggingface_hub
-datasets
